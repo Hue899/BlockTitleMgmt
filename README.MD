@@ -30,6 +30,7 @@ $ truffle test
 ```
 
 or
+```
 
 $ npm test
 ```
