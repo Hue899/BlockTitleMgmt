@@ -82,10 +82,10 @@ __SolnSquareVerifier__ contract address
 [https://testnets.opensea.io/collection/detestnet](https://testnets.opensea.io/collection/detestnet)
 
 
-![Detestnet Tokenized Property](https://github.com/hue899/BlockTitleMgmt.git/detestnet_forSale.png?raw=true)
+![detestnet_forSale](https://user-images.githubusercontent.com/67720949/180366353-c943363b-98bd-4959-b860-f484d66fd032.png)
 
-![Property Purchase](https://github.com/hue899/BlockTitleMgmt.git/propertytoken_purchase.png?raw=true)
 
+![propertytoken_purchase](https://user-images.githubusercontent.com/67720949/180366339-c855861d-1653-43ab-9394-525003af0909.png)
 
 
 # Project Resources
