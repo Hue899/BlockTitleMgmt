@@ -27,10 +27,12 @@ $ npm install -g truffle
 ### Steps tp run tests
 
 $ truffle test
+```
 
 or
 
 $npm test
+```
 
 
 
