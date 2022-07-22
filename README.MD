@@ -82,6 +82,12 @@ __SolnSquareVerifier__ contract address
 [https://testnets.opensea.io/collection/detestnet](https://testnets.opensea.io/collection/detestnet)
 
 
+[images/propertytoken_purchase.png](images/propertytoken_purchase.png)
+
+
+[images/detestnet_forSale.png](images/detestnet_forSale.png)
+
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
