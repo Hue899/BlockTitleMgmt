@@ -24,18 +24,17 @@ $ npm install -g truffle
 
 ```
 
-### Steps tp run tests
+### Steps to run tests
 
+```
 $ truffle test
 ```
 
 or
-```
 
+```
 $ npm test
 ```
-
-
 
 ### Steps to run a local ethereum network, and deploy your token contract to this local network
 
