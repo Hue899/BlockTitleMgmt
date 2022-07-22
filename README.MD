@@ -31,7 +31,7 @@ $ truffle test
 
 or
 
-$npm test
+$ npm test
 ```
 
 
