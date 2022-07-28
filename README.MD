@@ -1,5 +1,6 @@
 
 # Blockchain Title Managment
+This is a decentralized real estate marketplace offering fractional tokenized ownership of real estate. zk-Snarks was used to create a verification system which proves ownership of title without revealing sensitive information about the property. 
 
 ## Getting Started
 
